@@ -1,8 +1,7 @@
 ### Hi there, I'm Rohit Agrawal 👋
 - 🔭 I’m currently working on something really cool~
 - 🌱 I’m currently learning Svelte (<3), Flask and DevOps
-- 👯 I’m looking to collaborate 
-- 🥅 2020 Goals: Learn about writing bullet-proof production level code
+- 🥅 **2020 Goals:** Learn about writing bullet-proof production level code
 - 🤔 I’m looking for help with Cloud Computing
 - 💬 Ask me about UI/UX Design, Deep Learning, and Full Stack dev 
 - ⚡ Fun fact: I love reading about psychology and business 
