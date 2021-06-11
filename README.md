@@ -1,8 +1,8 @@
 ### Hi there, I'm Rohit Agrawal 👋
-- 🌱 I’m currently learning NestJs
+- 🌱 I’m currently learning system design and quantitative finance
 - 🥅 **2020 Goals:** Become a more effective and efficient software engineer
 - 💬 Ask me anything about UI/UX design, Deep Learning, and full stack development
-- ⚡ Fun fact: I love playing the guitar, and reading about psychology and business 
+- ⚡ Fun fact: I love playing the guitar and reading books about psychology and business 
 
 ### Connect with me:
 
@@ -26,4 +26,12 @@
 <br />
 <br />
 
-<!-- <img align="left" alt="Rohit's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=agrawal-rohit&show_icons=true&hide_border=true" /> -->
+### Top repositories
+
+[![Twitter sentiment](https://github-readme-stats.vercel.app/api/pin/?username=agrawal-rohit&repo=twitter-sentiment-analysis-web-app)](https://github.com/agrawal-rohit/twitter-sentiment-analysis-web-app)
+[![Stackoverflow](https://github-readme-stats.vercel.app/api/pin/?username=agrawal-rohit&repo=stackoverflow-semantic-search)](https://github.com/agrawal-rohit/stackoverflow-semantic-search)
+[![Tic tac toe](https://github-readme-stats.vercel.app/api/pin/?username=agrawal-rohit&repo=tic-tac-toe-bot)](https://github.com/agrawal-rohit/tic-tac-toe-bot)
+
+### My stats for the year
+
+![Rohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=agrawal-rohit&show_icons=true&count_private=true)
