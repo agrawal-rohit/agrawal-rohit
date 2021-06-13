@@ -26,12 +26,8 @@
 <br />
 <br />
 
-### Top repositories
-
-[![Twitter sentiment](https://github-readme-stats.vercel.app/api/pin/?username=agrawal-rohit&repo=twitter-sentiment-analysis-web-app)](https://github.com/agrawal-rohit/twitter-sentiment-analysis-web-app)
-[![Stackoverflow](https://github-readme-stats.vercel.app/api/pin/?username=agrawal-rohit&repo=stackoverflow-semantic-search)](https://github.com/agrawal-rohit/stackoverflow-semantic-search)
-[![Tic tac toe](https://github-readme-stats.vercel.app/api/pin/?username=agrawal-rohit&repo=tic-tac-toe-bot)](https://github.com/agrawal-rohit/tic-tac-toe-bot)
-
 ### My stats for the year
 
 ![Rohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=agrawal-rohit&show_icons=true&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agrawal-rohit&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
