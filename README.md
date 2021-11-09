@@ -1,5 +1,5 @@
 ### Hi there, I'm Rohit Agrawal 👋
-- 🌱 I’m currently working on Pearl UI and learning system design in my free time.
+- 🌱 I’m currently working on Pearl UI and learning system design using AWS in my free time.
 - 🥅 **2020 Goals:** Become a more effective and efficient software engineer
 - 💬 Ask me anything about UI/UX design, Deep Learning, and full stack development
 - ⚡ Fun fact: I love playing the guitar and reading books about psychology and business 
