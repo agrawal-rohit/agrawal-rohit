@@ -1,35 +1,30 @@
-### Hi there, I'm Rohit Agrawal 👋
-- 🌱 I’m currently working on Pearl UI and learning system design using AWS in my free time.
-- 🥅 **2020 Goals:** Become a more effective and efficient software engineer
-- 💬 Ask me anything about UI/UX design, Deep Learning, and full stack development
-- ⚡ Fun fact: I love playing the guitar and reading books about psychology and business 
+# Hi there, I'm Rohit! 👋
 
-### Connect with me:
+I'm just another guy who loves building cool things with code, especially passionate about building applications that integrate seamlessly into one's daily routine. I love working on creating productivity tools for fellow developers and experimenting with automating personal tasks through code.
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://www.rohitagrawal.me/)
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/channel/UCuS0DMmAXg4UBz1YtHbmabg)
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/rohitagrawal9009/)
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/codename_momos/)
+## About Me
+- 🌱 I’m currently building [VoiceXD](https://www.voicexd.com), while also building a few pet projects.
+- 👯 I’m looking to collaborate on [Pearl UI]([https://www.voicexd.com](https://github.com/agrawal-rohit/pearl-ui))
+- 💬 Ask me about UI/UX design, Machine learning, Full Stack Development, and Large Language Models (LLMs).
+- 📫 How to reach me: rohitagrawalofficialmail@gmail.com
+- ⚡ Fun fact: I'm all about the classic charm of old-money fashion aesthetics, and when I'm not appreciating timeless styles, I'm sharpening my mental agility in the fast-paced worlds of Rocket League and Valorant.
+  
+## Connect with me
+[<img align="left" alt="Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://www.rohitagrawal.me/)
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/rohitagrawal9009/)
+[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/_rohitagrawal_)
+<br />
+
+## Technologies & Tools
+- **Languages**: Python, JavaScript, Typescript
+- **Frameworks**: ReactJS, NestJS, MongoDB
+- **Tools**: Git, Docker, AWS, Terraform
 
 <br />
 
-### Sharpest arrows in my quiver:
-
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<!-- <img align="left" alt="VueJS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" /> -->
-<img align="left" alt="VueJS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />
-
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="Flask" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" />
-<img align="left" alt="Tensorflow" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" />
-<img align="left" alt="PyTorch" width="26px" src="https://avatars0.githubusercontent.com/u/21003710?s=200&v=4" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+Thanks for stopping by! Feel free to reach out if you'd like to collaborate on a project or just have a chat. 😊
 
 <br />
-<br />
 
-### My stats for the year
-
-![Rohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=agrawal-rohit&show_icons=true&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agrawal-rohit&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+![Rohit's GitHub stats](https://github-readme-stats-rohit9009.vercel.app/api?username=agrawal-rohit&show_icons=true&count_private=true)
+[![Top Langs](https://github-readme-stats-rohit9009.vercel.app/api/top-langs/?username=agrawal-rohit&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
