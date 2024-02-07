@@ -4,10 +4,10 @@ I'm just another guy who loves building cool things with code, especially passio
 
 ## About Me
 - 🌱 I’m currently building [VoiceXD](https://www.voicexd.com), while also building a few pet projects.
-- 👯 I’m looking to collaborate on [Pearl UI]([https://www.voicexd.com](https://github.com/agrawal-rohit/pearl-ui))
-- 💬 Ask me about UI/UX design, Machine learning, Full Stack Development, and Large Language Models (LLMs).
+- 👯 I’m looking to collaborate on [Pearl UI](https://github.com/agrawal-rohit/pearl-ui).
+- 💬 Ask me about Product design, Machine learning, Full Stack Development with MERN, and Large Language Models (LLMs).
 - 📫 How to reach me: rohitagrawalofficialmail@gmail.com
-- ⚡ Fun fact: I'm all about the classic charm of old-money fashion aesthetics, and when I'm not appreciating timeless styles, I'm sharpening my mental agility in the fast-paced worlds of Rocket League and Valorant.
+- ⚡ Fun fact: During weekends, you can find me sweating in a kickboxing session and then doing the same in a Valorant lobby.
   
 ## Connect with me
 [<img align="left" alt="Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://www.rohitagrawal.me/)
@@ -16,8 +16,8 @@ I'm just another guy who loves building cool things with code, especially passio
 <br />
 
 ## Technologies & Tools
-- **Languages**: Python, JavaScript, Typescript
-- **Frameworks**: ReactJS, NestJS, MongoDB
+- **Languages**: Python, JavaScript, Typescript, Jest
+- **Frameworks**: ReactJS, NestJS, Chakra UI, MongoDB
 - **Tools**: Git, Docker, AWS, Terraform
 
 <br />
