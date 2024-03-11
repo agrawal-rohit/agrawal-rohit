@@ -1,6 +1,6 @@
 # Hi there, I'm Rohit! 👋
 
-I'm just another guy who loves building cool things with code, especially passionate about building applications that integrate seamlessly into one's daily routine. I love working on creating productivity tools for fellow developers and experimenting with automating personal tasks through code.
+I'm a software developer with a rich background in machine learning. My passion lies in crafting tools that not only improve developer workflows but also automate everyday tasks, making daily life more productive and efficient. Currently, I'm exploring how Large Language Models (LLMs) can serve as digital assistants, enhancing the quality of life in both personal and professional spheres with simpler, more accessible technology.
 
 ## About Me
 - 🌱 I’m currently building a few side projects.
