@@ -3,7 +3,7 @@
 I'm just another guy who loves building cool things with code, especially passionate about building applications that integrate seamlessly into one's daily routine. I love working on creating productivity tools for fellow developers and experimenting with automating personal tasks through code.
 
 ## About Me
-- 🌱 I’m currently building [VoiceXD](https://www.voicexd.com), while also building a few pet projects.
+- 🌱 I’m currently building a few side projects.
 - 👯 I’m looking to collaborate on [Pearl UI](https://github.com/agrawal-rohit/pearl-ui).
 - 💬 Ask me about Product design, Machine learning, Full Stack Development with MERN, and Large Language Models (LLMs).
 - 📫 How to reach me: rohitagrawalofficialmail@gmail.com
