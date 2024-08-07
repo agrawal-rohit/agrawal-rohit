@@ -1,13 +1,12 @@
 # Hi there, I'm Rohit! 👋
 
-I'm a software developer with a rich background in machine learning. My passion lies in crafting tools that not only improve developer workflows but also automate everyday tasks, making daily life more productive and efficient. Currently, I'm exploring how Large Language Models (LLMs) can serve as digital assistants, enhancing the quality of life in both personal and professional spheres with simpler, more accessible technology.
+I'm a software engineer who just likes building things that only impresses my mom (only 4 out of 10 times).
 
 ## About Me
-- 🌱 I’m currently building a few side projects.
-- 👯 I’m looking to collaborate on [Pearl UI](https://github.com/agrawal-rohit/pearl-ui).
-- 💬 Ask me about Product design, Machine learning, Full Stack Development with MERN, and Large Language Models (LLMs).
+- 🌱 I’m currently building a custom set of tools that improve my productivity, for e.g. [Pearl UI](https://github.com/agrawal-rohit/pearl-ui) is my React Native UI library - trust me, it's cool (my mom says so)
+- 💬 Ask me about Product design, Machine learning, Full Stack Development, and Large Language Models (LLMs).
+- ⚡ Fun fact: During weekends, you can find me sweating in a Valorant ranked lobby or binging GothamChess videos.
 - 📫 How to reach me: rohitagrawalofficialmail@gmail.com
-- ⚡ Fun fact: During weekends, you can find me sweating in a kickboxing session and then doing the same in a Valorant lobby.
   
 ## Connect with me
 [<img align="left" alt="Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://www.rohitagrawal.me/)
@@ -16,9 +15,8 @@ I'm a software developer with a rich background in machine learning. My passion 
 <br />
 
 ## Technologies & Tools
-- **Languages**: Python, JavaScript, Typescript, Jest
-- **Frameworks**: ReactJS, NestJS, Chakra UI, MongoDB
-- **Tools**: Git, Docker, AWS, Terraform
+- **Languages**: JavaScript, Typescript, Python 
+- **Frameworks**: ReactJS, NestJS, Chakra UI, TailwindCSS, MongoDB
 
 <br />
 
